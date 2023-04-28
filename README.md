@@ -7,7 +7,7 @@
 
   Sou Renara Secchim, tenho 26 anos e sou formada em Arquitetura e urbanismo porém iniciando minha transição de carreira. Estudo programação e desenvolvo projetos há mais de 1 anos.
 <p>
-  Sou uma apaixonada na área de tecnologia, onde atualmente realizo muitos curso da área para aumentar o meu conhecimento. Me considero um pessoa dedicada, adaptativa e que não tem medo de tirar dúvidas quando necessário. Amo desenvolver soluções atráves da programação na cia de um otimo café ☕.
+  Sou uma apaixonada na área de tecnologia, onde atualmente realizo muitos curso da área para aumentar o meu conhecimento. Me considero um pessoa dedicada, adaptativa e que não tem medo de tirar dúvidas quando necessário. Amo desenvolver soluções atráves da programação na cia de um otimo café ☕
 
 <br>
   
