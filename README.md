@@ -15,7 +15,7 @@
  - 👨‍💻 **FrontEnd Web** com React 
  - ⚙️ **BackEnd** Nodejs
  - 🗄️ **Data Base** com MySql e MongoDb 
- - 🛠️ **Techs** Javascript | Css | Html | TypeScript | 
+ - 🛠️ **Techs** Javascript | Css | Html | TypeScript | Java
  - e mais alguns frameworks e bibliotecas...
 <br>
 
