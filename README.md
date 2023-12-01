@@ -5,18 +5,19 @@
 
 >⚡ Uma arquiteta que se reencontrou neste mundo da tecnologia...
 
-  Sou Renara Secchim, tenho 26 anos e sou formada em Arquitetura e urbanismo porém iniciando minha transição de carreira. Estudo programação e desenvolvo projetos há mais de 1 anos.
+  Sou Renara Secchim, tenho 26 anos e sou formada em Arquitetura e urbanismo porém iniciando minha transição de carreira. Estudo programação e desenvolvo projetos há mais de 2 anos.
 <p>
-  Sou uma apaixonada na área de tecnologia, onde atualmente realizo curso da área para aumentar o meu conhecimento. Me considero um pessoa dedicada, adaptativa e que não tem medo de tirar dúvidas quando necessário. Amo desenvolver soluções de problemas atráves da programação na cia de um ótimo café ☕
+  Apaixonada por tecnologia e hipermotivada em criar soluções acessíveis para problemas do cotidiano com a finalidade de facilitar a vida das pessoas. Amo desenvolver soluções de problemas atráves da programação na cia de um ótimo café ☕
 
 <br>
 
 ## 👨🏻‍💻 Techs
- - 👨‍💻 **FrontEnd Web** com React 
- - ⚙️ **BackEnd** Nodejs
- - 🗄️ **Data Base** com MySql e MongoDb 
- - 🛠️ **Techs** Javascript | Css | Html | TypeScript | Java
- - e mais alguns frameworks e bibliotecas...
+ - 👨‍💻 **FrontEnd Web**  React 
+ - ⚙️ **BackEnd** Express | Spring Boot 
+ - 🗄️ **Data Base** MySql 
+ - 🛠️ **Techs** Javascript | Css | Html | Java | NodeJS
+ - ⚙️ **Library Test** Mockito | JUnit | Jest
+ - 🛠️ **DevOps** Docker | Figma | GitHub | RabbitMq   
 <br>
 
 <div align="center">
