@@ -17,7 +17,7 @@
  - 🗄️ **Data Base** MySql 
  - 🛠️ **Techs** Javascript | Css | Html | Java | NodeJS
  - ⚙️ **Library Test** Mockito | JUnit | Jest
- - 🛠️ **DevOps** Docker | Figma | GitHub | RabbitMq   
+ - 🛠️ **DevOps** Docker | CI/CD | GitHub |    
 <br>
 
 <div align="center">
