@@ -1,7 +1,8 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/82913620/218531033-3731893b-bedb-454e-bb73-817382945f2d.gif" width="350"/>
   
-## Oi, sou Renara👋
+### Oi, sou Renara👋
+
 
 >⚡ Uma arquiteta que se reencontrou neste mundo da tecnologia...
 
@@ -15,9 +16,9 @@
  - 👨‍💻 **FrontEnd Web**  React 
  - ⚙️ **BackEnd** Express | Spring Boot 
  - 🗄️ **Data Base** MySql 
- - 🛠️ **Techs** Javascript | Css | Html | Java | NodeJS
- - ⚙️ **Library Test** Mockito | JUnit | Jest
- - 🛠️ **DevOps** Docker | CI/CD | GitHub |    
+ - 🛠️ **Techs** Javascript | Css | Html | Java | NodeJS | Typescript
+ - ⚙️ **Library Test** Mockito | JUnit | Jest 
+ - 🛠️ **DevOps** Docker | CI/CD | GitHub | AWS | Kafta  
 <br>
 
 <div align="center">
