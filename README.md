@@ -31,7 +31,7 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>Portifólio </h3>
-        <video width="80%" controls autoPlay mute src="https://github.com/Ar3secchim/Project-Portifolio-web/assets/82913620/e489373d-b879-4833-8e18-1dcf356dad5b">
+        <video width="60%" controls autoPlay mute src="https://github.com/Ar3secchim/Project-Portifolio-web/assets/82913620/e489373d-b879-4833-8e18-1dcf356dad5b">
         </video>
         <br>
         <div >
@@ -85,7 +85,7 @@
       <td width="33%" valign="top">
       <div align="center">
         <h3>API Sistema de Operadora de canais</h3>
-<img width="100%" src="https://media.licdn.com/dms/image/D5612AQHMnuK8Q2uOJw/article-cover_image-shrink_720_1280/0/1656211032749?e=2147483647&v=beta&t=XiqW4LodkqZsoyErRlIxFaoWLGEunkSHjzEm-7ugVqQ"/>
+<img width="60%" src="https://media.licdn.com/dms/image/D5612AQHMnuK8Q2uOJw/article-cover_image-shrink_720_1280/0/1656211032749?e=2147483647&v=beta&t=XiqW4LodkqZsoyErRlIxFaoWLGEunkSHjzEm-7ugVqQ"/>
         <br>
         <div >
         <a href="https://github.com/Ar3secchim/Channel-Subscription-Service" target="_blank">
@@ -93,6 +93,19 @@
         </a>    
            <br>
         <a href="https://github.com/Ar3secchim/Channel-Subscription-Service" target="_blank">
+          <button>View Repo</button>
+        </a>
+        </div>
+      </div>
+    </td>
+      <td width="33%" valign="top">
+      <div align="center">
+        <h3>Infra na Aws com Terraform</h3>
+        <img  width="80%" src="https://parallelstaff.com/wp-content/uploads/2023/12/terraform-1.png"/>
+        <br>
+        <div >   
+           <br>
+        <a href="https://github.com/Ar3secchim/infra-terraform" target="_blank">
           <button>View Repo</button>
         </a>
         </div>
