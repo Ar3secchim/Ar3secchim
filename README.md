@@ -50,14 +50,15 @@
         <h3>light Life</h3>
          <video width="80%" controls autoPlay mute src="https://github.com/user-attachments/assets/630e33d4-f125-4336-9b04-c26f2fad37b0">
         <br>
-        <div >
-        <a href="https://github.com/Ar3secchim/light-life-web/tree/development" target="_blank">
+         </video>
+        </ div>
+              <a href="https://project-77-days.vercel.app/" target="_blank">
           <button>View Site</button>
-        </a>    
-           <br>
-        <a href="https://project-77-days.vercel.app/" target="_blank">
-          <button>View Repo</button>
         </a>
+        <br>
+        <a href="https://github.com/Ar3secchim/light-life-web/tree/development" target="_blank">
+          <button>View Repp</button>
+        </a>    
         </div>
       </div>
     </td>
