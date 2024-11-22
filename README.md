@@ -48,7 +48,7 @@
      <td width="33%" valign="top">
       <div align="center">
         <h3>light Life</h3>
-        <img width="100%" src="https://github.com/Ar3secchim/light-life-web/blob/development/public/iconRounded.png?raw=true"/>
+         <video width="80%" controls autoPlay mute src="https://github.com/user-attachments/assets/630e33d4-f125-4336-9b04-c26f2fad37b0">
         <br>
         <div >
         <a href="https://github.com/Ar3secchim/light-life-web/tree/development" target="_blank">
@@ -61,7 +61,27 @@
         </div>
       </div>
     </td>
+       </td>
      <td width="33%" valign="top">
+      <div align="center">
+        <h3>API Sistema de Operadora de canais</h3>
+         <video width="80%" controls autoPlay mute src="https://github.com/user-attachments/assets/79a74dcd-1f2e-495e-8185-bc3d3f142533">
+        </video>
+        <br>
+        <div >
+        <a href="https://test-fullstack-fusion.vercel.app/" target="_blank">
+          <button>View Site</button>
+        </a>    
+           <br>
+        <a href="https://github.com/Ar3secchim/test-fullstack-fusion" target="_blank">
+          <button>View Repo</button>
+        </a>
+        </div>
+      </div>
+    </td>
+  
+   <tr>
+      <td width="33%" valign="top">
       <div align="center">
         <h3>API Sistema de Operadora de canais</h3>
 <img width="100%" src="https://media.licdn.com/dms/image/D5612AQHMnuK8Q2uOJw/article-cover_image-shrink_720_1280/0/1656211032749?e=2147483647&v=beta&t=XiqW4LodkqZsoyErRlIxFaoWLGEunkSHjzEm-7ugVqQ"/>
@@ -77,6 +97,7 @@
         </div>
       </div>
     </td>
+  </tr>
   </tr>
 </table>
 
