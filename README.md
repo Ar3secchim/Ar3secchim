@@ -47,7 +47,7 @@
     </td>
      <td width="33%" valign="top">
       <div align="center">
-        <h3>light Life</h3>
+        <h3>Light Life</h3>
          <video width="80%" controls autoPlay mute src="https://github.com/user-attachments/assets/630e33d4-f125-4336-9b04-c26f2fad37b0">
         <br>
          </video>
