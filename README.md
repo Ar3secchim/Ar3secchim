@@ -66,7 +66,7 @@
      <td width="33%" valign="top">
       <div align="center">
         <h3>Upload de arquivos usando AWS</h3>
-        <img width="60%" src="https://miro.medium.com/v2/resize:fit:561/1*ifQL1Z8hkxQ1NWAObg-JSg.png"/>
+        <img width="80%" src="https://miro.medium.com/v2/resize:fit:561/1*ifQL1Z8hkxQ1NWAObg-JSg.png"/>
         <br>
         <div >
         <a href="https://github.com/Ar3secchim/upload-files" target="_blank">
@@ -76,12 +76,12 @@
         </div>
       </div>
     </td>
-  
+  </tr>
    <tr>
       <td width="33%" valign="top">
       <div align="center">
         <h3>API Sistema de Operadora de canais</h3>
-<img width="60%" src="https://media.licdn.com/dms/image/D5612AQHMnuK8Q2uOJw/article-cover_image-shrink_720_1280/0/1656211032749?e=2147483647&v=beta&t=XiqW4LodkqZsoyErRlIxFaoWLGEunkSHjzEm-7ugVqQ"/>
+<img width="150%"  src="https://media.licdn.com/dms/image/D5612AQHMnuK8Q2uOJw/article-cover_image-shrink_720_1280/0/1656211032749?e=2147483647&v=beta&t=XiqW4LodkqZsoyErRlIxFaoWLGEunkSHjzEm-7ugVqQ"/>
         <br>
         <div >
         <a href="https://github.com/Ar3secchim/Channel-Subscription-Service" target="_blank">
@@ -107,7 +107,6 @@
         </div>
       </div>
     </td>
-  </tr>
   </tr>
 </table>
 
