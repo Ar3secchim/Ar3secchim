@@ -65,18 +65,13 @@
        </td>
      <td width="33%" valign="top">
       <div align="center">
-        <h3>API Sistema de Operadora de canais</h3>
-         <video width="80%" controls autoPlay mute src="https://github.com/user-attachments/assets/79a74dcd-1f2e-495e-8185-bc3d3f142533">
-        </video>
+        <h3>Upload de arquivos usando AWS</h3>
         <br>
         <div >
-        <a href="https://test-fullstack-fusion.vercel.app/" target="_blank">
-          <button>View Site</button>
+        <a href="https://test-fullstack-fusion.vercel.app/](https://github.com/Ar3secchim/upload-files" target="_blank">
+          <button>View Repo</button>
         </a>    
            <br>
-        <a href="https://github.com/Ar3secchim/test-fullstack-fusion" target="_blank">
-          <button>View Repo</button>
-        </a>
         </div>
       </div>
     </td>
