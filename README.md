@@ -66,9 +66,10 @@
      <td width="33%" valign="top">
       <div align="center">
         <h3>Upload de arquivos usando AWS</h3>
+        <img width="60%" src="https://miro.medium.com/v2/resize:fit:561/1*ifQL1Z8hkxQ1NWAObg-JSg.png"/>
         <br>
         <div >
-        <a href="https://test-fullstack-fusion.vercel.app/](https://github.com/Ar3secchim/upload-files" target="_blank">
+        <a href="https://github.com/Ar3secchim/upload-files" target="_blank">
           <button>View Repo</button>
         </a>    
            <br>
