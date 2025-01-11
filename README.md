@@ -15,13 +15,14 @@
 
 <br>
 
-## 👨🏻‍💻 Techs 
- - 👨‍💻 **FrontEnd Web**  React 
- - ⚙️ **BackEnd** Express | Spring Boot 
- - 🗄️ **Data Base** MySql 
- - 🛠️ **Techs** Javascript | Css | Html | Java | NodeJS | Typescript
- - ⚙️ **Library Test** Mockito | JUnit | Jest 
- - 🛠️ **DevOps** Docker | CI/CD | GitHub | AWS | Kafta  
+## 👨🏻‍💻 Techs
+
+- 👨‍💻 **FrontEnd Web**  React
+- ⚙️ **BackEnd** Express | Spring Boot
+- 🗄️ **Data Base** MySql
+- 🛠️ **Techs** Javascript | Css | Html | Java | NodeJS | Typescript
+- ⚙️ **Library Test** Mockito | JUnit | Jest
+- 🛠️ **DevOps** Docker | CI/CD | GitHub | AWS | Kafta  
 <br>
 
 ## ✨ Projects Highlights
@@ -37,7 +38,7 @@
         <div >
         <a href="https://www.renara.dev/" target="_blank">
           <button>View Site</button>
-        </a>    
+        </a>
            <br>
         <a href="https://github.com/Ar3secchim/Project-Portifolio-web" target="_blank">
           <button>View Repo</button>
@@ -56,37 +57,41 @@
           <button>View Site</button>
         </a>
         <br>
-        <a href="https://github.com/Ar3secchim/light-life-web/tree/development" target="_blank">
-          <button>View Repp</button>
-        </a>    
+        <a href="https://github.com/Ar3secchim/light-life-web/tree/development " target="_blank">
+          <button>View Repo</button>
+        </a>
         </div>
       </div>
     </td>
-       </td>
      <td width="33%" valign="top">
       <div align="center">
-        <h3>Upload de arquivos usando AWS</h3>
-        <img width="80%" src="https://miro.medium.com/v2/resize:fit:561/1*ifQL1Z8hkxQ1NWAObg-JSg.png"/>
+        <h3>Task List</h3>
+         <video width="80%" controls autoPlay mute src="https://user-images.githubusercontent.com/82913620/228239209-74f776d5-b8d2-4ebc-9796-3894cb85088d.webm">
         <br>
-        <div >
-        <a href="https://github.com/Ar3secchim/upload-files" target="_blank">
-          <button>View Repo</button>
-        </a>    
-           <br>
+         </video>
+        </ div>
+              <a href="https://tasks-list-gilt.vercel.app/" target="_blank">
+          <button>View Site</button>
+        </a>
+        <br>
+        <a href="https://github.com/Ar3secchim/tasks-list-react" target="_blank">
+          <button>View Repp</button>
+        </a>
         </div>
       </div>
     </td>
+
   </tr>
    <tr>
       <td width="33%" valign="top">
       <div align="center">
         <h3>API Sistema de Operadora de canais</h3>
-<img width="150%"  src="https://media.licdn.com/dms/image/D5612AQHMnuK8Q2uOJw/article-cover_image-shrink_720_1280/0/1656211032749?e=2147483647&v=beta&t=XiqW4LodkqZsoyErRlIxFaoWLGEunkSHjzEm-7ugVqQ"/>
+<img width="60%"  src="https://media.licdn.com/dms/image/D5612AQHMnuK8Q2uOJw/article-cover_image-shrink_720_1280/0/1656211032749?e=2147483647&v=beta&t=XiqW4LodkqZsoyErRlIxFaoWLGEunkSHjzEm-7ugVqQ"/>
         <br>
         <div >
         <a href="https://github.com/Ar3secchim/Channel-Subscription-Service" target="_blank">
           <button>View Site</button>
-        </a>    
+        </a>
            <br>
         <a href="https://github.com/Ar3secchim/Channel-Subscription-Service" target="_blank">
           <button>View Repo</button>
@@ -96,10 +101,10 @@
     </td>
       <td width="33%" valign="top">
       <div align="center">
-        <h3>Infra na Aws com Terraform</h3>
+        <h3>Infra na Aws com Terraform VPC</h3>
         <img  width="80%" src="https://parallelstaff.com/wp-content/uploads/2023/12/terraform-1.png"/>
         <br>
-        <div >   
+        <div >
            <br>
         <a href="https://github.com/Ar3secchim/infra-terraform" target="_blank">
           <button>View Repo</button>
@@ -107,11 +112,23 @@
         </div>
       </div>
     </td>
+      <td width="33%" valign="top">
+      <div align="center">
+        <h3>Upload de arquivos usando AWS</h3>
+        <img width="80%" src="https://miro.medium.com/v2/resize:fit:561/1*ifQL1Z8hkxQ1NWAObg-JSg.png"/>
+        <br>
+        <div >
+        <a href="https://github.com/Ar3secchim/upload-files" target="_blank">
+          <button>View Repo</button>
+        </a>
+           <br>
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
 
-
-## 🔥 Stats 
+## 🔥 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar3secchim&layout=compact&hide_border=true&theme=transparent" align="center" />
@@ -121,6 +138,7 @@
 <br>
 
 ## 👨🏻‍💻 Redes Sociais
+
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/renarasecchim/)
