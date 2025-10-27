@@ -17,12 +17,12 @@
 
 ## 👨🏻‍💻 Techs
 
-- 👨‍💻 **FrontEnd Web**  React
+- 👨‍💻 **FrontEnd Web**  React | Angular 
 - ⚙️ **BackEnd** Express | Spring Boot
-- 🗄️ **Data Base** MySql
-- 🛠️ **Techs** Javascript | Css | Html | Java | NodeJS | Typescript
+- 🗄️ **Data Base** MySql | Oracle
+- 🛠️ **Techs** Javascript| Java | NodeJS | Typescript
 - ⚙️ **Library Test** Mockito | JUnit | Jest
-- 🛠️ **DevOps** Docker | CI/CD | GitHub | AWS | Kafta  
+- 🛠️ **DevOps** Docker | CI/CD | GitHub | AWS | Kafta | terraform
 <br>
 
 ## ✨ Projects Highlights
