@@ -1,145 +1,23 @@
-### _<div align="center"> Oi, sou Renara👋 Sou uma desenvolvedora full stack apaixonada por criar soluções. </div>_
+### Hi, I'm Renara 👋
 
-<br>
+Backend software engineer with a platform focus, based in Belém, Brazil.
+I build with Java/Spring and TypeScript, run my own Kubernetes homelab with
+GitOps, and integrate LLM agents into products.
 
-🎓 Estudante em ciências da tecnologia.
-<br>
-🧠 Sou uma aprendiz rápida e adoro aprender novas tecnologias.
-<br>
-💪 Proficiente em front-end e back-end, e se arriscando no mundo de DevOps.
-<br>
-🏋️‍♂️ Além de programar, adoro levantamento de peso, cozinhar e ler, claro como uma boa dev raiz adoro um bom café👨‍🍳
+[Leia em português](README.pt-BR.md) · [www.renara.dev](https://www.renara.dev) · [LinkedIn](https://www.linkedin.com/in/renarasecchim/)
 
-<p>
-  Apaixonada por tecnologia e motivada em criar soluções acessíveis para problemas do cotidiano com a finalidade de facilitar a vida das pessoas. Amo desenvolver soluções de problemas atráves da programação na cia de um ótimo café ☕
+**Now:** Software Engineer at FADESP, building backend for state tax systems.
 
-<br>
+**Core stack:** Java · Spring Boot · TypeScript · Node.js · PostgreSQL · Kubernetes · Docker · AWS
 
-## 👨🏻‍💻 Techs
+### Selected work
 
-- 👨‍💻 **FrontEnd Web**  React | Angular 
-- ⚙️ **BackEnd** Express | Spring Boot
-- 🗄️ **Data Base** MySql | Oracle
-- 🛠️ **Techs** Javascript| Java | NodeJS | Typescript
-- ⚙️ **Library Test** Mockito | JUnit | Jest
-- 🛠️ **DevOps** Docker | CI/CD | GitHub | AWS | Kafta | terraform
-<br>
+- **[renara.dev](https://www.renara.dev)**: case studies written as problem → decisions → trade-offs, in Portuguese and English. [Source](https://github.com/Ar3secchim/Project-Portifolio-web).
+- **[api-homelab-public](https://github.com/Ar3secchim/api-homelab-public)**: a Go CronJob that publishes a sanitized snapshot of my home cluster. Outbound only, least-privilege RBAC, a hand-written SigV4 signer, and zero dependencies.
+- **[Deadline engine](https://www.renara.dev/en/cases/motor-cobranca)**: a Java/Spring rules engine that resolves competing events and explains every decision it makes.
+- **[PlanFinance](https://www.renara.dev/en/cases/plan-finance)**: a personal finance app with a Claude tool-use agent on WhatsApp that only answers from real queries.
+- **[OdontoFlow](https://www.renara.dev/en/cases/odontoflow)**: a serverless, multi-tenant SaaS for dental clinics, currently pre-launch.
 
-## ✨ Projects Highlights
+The last three are private repositories; the case studies explain the architecture, and I am happy to walk through the code in a technical conversation.
 
-<table>
-    <tr>
-    <td width="33%" valign="top">
-      <div align="center">
-        <h3>Portifólio </h3>
-        <video width="60%" controls autoPlay mute src="https://github.com/Ar3secchim/Project-Portifolio-web/assets/82913620/e489373d-b879-4833-8e18-1dcf356dad5b">
-        </video>
-        <br>
-        <div >
-        <a href="https://www.renara.dev/" target="_blank">
-          <button>View Site</button>
-        </a>
-           <br>
-        <a href="https://github.com/Ar3secchim/Project-Portifolio-web" target="_blank">
-          <button>View Repo</button>
-        </a>
-        </div>
-      </div>
-    </td>
-     <td width="33%" valign="top">
-      <div align="center">
-        <h3>Light Life</h3>
-         <video width="80%" controls autoPlay mute src="https://github.com/user-attachments/assets/630e33d4-f125-4336-9b04-c26f2fad37b0">
-        <br>
-         </video>
-        </ div>
-              <a href="https://project-77-days.vercel.app/" target="_blank">
-          <button>View Site</button>
-        </a>
-        <br>
-        <a href="https://github.com/Ar3secchim/light-life-web/tree/development " target="_blank">
-          <button>View Repo</button>
-        </a>
-        </div>
-      </div>
-    </td>
-     <td width="33%" valign="top">
-      <div align="center">
-        <h3>Task List</h3>
-         <video width="80%" controls autoPlay mute src="https://user-images.githubusercontent.com/82913620/228239209-74f776d5-b8d2-4ebc-9796-3894cb85088d.webm">
-        <br>
-         </video>
-        </ div>
-              <a href="https://tasks-list-gilt.vercel.app/" target="_blank">
-          <button>View Site</button>
-        </a>
-        <br>
-        <a href="https://github.com/Ar3secchim/tasks-list-react" target="_blank">
-          <button>View Repp</button>
-        </a>
-        </div>
-      </div>
-    </td>
-
-  </tr>
-   <tr>
-      <td width="33%" valign="top">
-      <div align="center">
-        <h3>API Sistema de Operadora de canais</h3>
-<img width="60%"  src="https://media.licdn.com/dms/image/D5612AQHMnuK8Q2uOJw/article-cover_image-shrink_720_1280/0/1656211032749?e=2147483647&v=beta&t=XiqW4LodkqZsoyErRlIxFaoWLGEunkSHjzEm-7ugVqQ"/>
-        <br>
-        <div >
-        <a href="https://github.com/Ar3secchim/Channel-Subscription-Service" target="_blank">
-          <button>View Site</button>
-        </a>
-           <br>
-        <a href="https://github.com/Ar3secchim/Channel-Subscription-Service" target="_blank">
-          <button>View Repo</button>
-        </a>
-        </div>
-      </div>
-    </td>
-      <td width="33%" valign="top">
-      <div align="center">
-        <h3>Infra na Aws com Terraform VPC</h3>
-        <img  width="80%" src="https://parallelstaff.com/wp-content/uploads/2023/12/terraform-1.png"/>
-        <br>
-        <div >
-           <br>
-        <a href="https://github.com/Ar3secchim/infra-terraform" target="_blank">
-          <button>View Repo</button>
-        </a>
-        </div>
-      </div>
-    </td>
-      <td width="33%" valign="top">
-      <div align="center">
-        <h3>Upload de arquivos usando AWS</h3>
-        <img width="80%" src="https://miro.medium.com/v2/resize:fit:561/1*ifQL1Z8hkxQ1NWAObg-JSg.png"/>
-        <br>
-        <div >
-        <a href="https://github.com/Ar3secchim/upload-files" target="_blank">
-          <button>View Repo</button>
-        </a>
-           <br>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 🔥 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar3secchim&layout=compact&hide_border=true&theme=transparent" align="center" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ar3secchim&theme=transparent&hide_border=true" align="center" />
-</div>  
-<br>
-
-## 👨🏻‍💻 Redes Sociais
-
-<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/renarasecchim/)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f8q7Rh5d)
+Away from the keyboard: weightlifting, cooking, reading, and good coffee ☕
